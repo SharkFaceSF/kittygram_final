@@ -3,7 +3,7 @@ name: Main Ktgrm Workflow
 on:
   push:
     branches:
-      - 'main'
+      - '*'
 
 jobs:
   tests:
