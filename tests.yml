@@ -1,4 +1,4 @@
 repo_owner: SharkFaceSF
-kittygram_domain: kittygraminfra.ddns.net
-taski_domain: sharkfacetaski.myftp.org
+kittygram_domain: https://kittygraminfra.ddns.net
+taski_domain: https://sharkfacetaski.myftp.org
 dockerhub_username: sharkface34
